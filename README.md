@@ -34,6 +34,3 @@ Configurez votre fichier `inventory` avec les détails du serveur cible.
         ```
         asterisk -vvvvc
         ```        
-## Contribution
-
-Les contributions sont les bienvenues.
